@@ -7,5 +7,5 @@ data:
   # userdb_url: jdbc:mysql://localhost:3306/userdb
   # restaurantdb_url: jdbc:mysql://localhost:3306/restaurantdb
   # foodcatalogueadb_url: jdbc:mysql://localhost:3306/foodcataloguedb
-  # orderdb_url: mongodb+srv://admin:passwording@atlas-cluster.b3dwy1m.mongodb.net/
+  # orderdb_url: atlasurl@atlas-cluster.b3dwy1m.mongodb.net/
   # eureka_service_address: http://eureka-0.eureka-service:8761/eureka/
